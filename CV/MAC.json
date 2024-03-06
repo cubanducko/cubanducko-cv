@@ -186,6 +186,11 @@
             "name": "Frontend Developer",
             "startDate": "2018-08-01",
             "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "As a Frontend Engineer in my first startup experience, I embarked on a journey of continuous learning and growth, immersing myself in Vue.js, testing methodologies, clean code practices, and product development principles. This role primarily involved product-focused tasks, where I played a significant role in shaping the user experience and functionality of the application.\n\nThis immersive experience in a startup environment equipped me with the adaptability, resilience, and entrepreneurial mindset essential for navigating the challenges and opportunities in the dynamic world of technology startups.\n"
+              }
+            ],
             "competences": [
               {
                 "name": "Cypress",
