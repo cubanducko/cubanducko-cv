@@ -161,7 +161,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Adobe Photoshop",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Astro",
           "type": "technology"
         }
       },
@@ -173,13 +179,19 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Github Actions",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -198,6 +210,12 @@
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -341,6 +359,10 @@
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
         "type": "technology"
       },
       {
