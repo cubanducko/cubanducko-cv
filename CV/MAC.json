@@ -1,0 +1,365 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ricardo",
+      "surnames": "Domínguez Álvarez",
+      "title": "Staff Frontend Engineer",
+      "description": "I'm Ricardo Domínguez, frontend developer based in Madrid.\n\nWithin the different branches of programming I’ve found in frontend development a perfect match between my interest in refined visuals and my passion for software architecture.\n\nI consider myself to be a decisive and pragmatic person, always trying to learn new things in order to grow both personally and professionally.\n\nI'm a big Typescript and React fan 🤓, but I've also worked with Vue.js and migrated some projects from Angular 1.x",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/affec6e4-7268-4747-8863-442731f96736_img_20220625_210822.jpg",
+        "alt": "IMG_20220625_210822.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
+        "country": "España",
+        "region": "Community of Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ricardodom"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/cubanducko"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/home"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Eventbrite",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/463f66a2-cddb-4700-852f-96270b90df05_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/463f66a2-cddb-4700-852f-96270b90df05_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "Staff Frontend Engineer",
+            "startDate": "2023-02-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Packlink — Simply Shipping",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/30b6a60d-119c-453d-8b93-301390eb029b_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/30b6a60d-119c-453d-8b93-301390eb029b_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "L4 - Principal Frontend Engineer",
+            "startDate": "2022-09-01",
+            "finishDate": "2023-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Packlink — Simply Shipping",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/481ec11b-553d-4bcd-a782-648b9027dd70_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/481ec11b-553d-4bcd-a782-648b9027dd70_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer II",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Packlink — Simply Shipping",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/4292d7a7-a44c-4993-af9a-1b8c93ca53cb_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/4292d7a7-a44c-4993-af9a-1b8c93ca53cb_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FounderNest",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/20c5788c-7366-4564-a329-745a772ffac9_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/20c5788c-7366-4564-a329-745a772ffac9_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Frontend Developer",
+            "startDate": "2018-12-01",
+            "finishDate": "2021-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HETIKUS"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2018-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mr. Milú",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/b576c800-c289-430b-aa90-591d0d898dca_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/b576c800-c289-430b-aa90-591d0d898dca_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "Associate Frontend Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2018-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GRADIANT",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/eba99956-47ad-48d8-b636-535653dbcc59_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/eba99956-47ad-48d8-b636-535653dbcc59_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "roles": [
+          {
+            "name": "IoT Researcher",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-03-31",
+            "challenges": [
+              {
+                "description": "Research and development of IoT solutions for the industry."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "fullName": "Gallego",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "JP",
+        "fullName": "Japonés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Front end libraries certification, Computer Science",
+        "startDate": "2016-02-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/36637cc0-d0e1-421c-9fce-369d3b9b763c_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/36637cc0-d0e1-421c-9fce-369d3b9b763c_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "finishDate": "2016-09-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en ingenería de las telecomunicaciones, Telemática",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Universidade de Vigo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "finishDate": "2016-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/ricardodom",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cubanducko",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/home",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "r.dominguez.alvarez.dev@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Astro",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I am deeply motivated by organizations that exemplify strong and transparent leadership. I believe in working with companies that feel like cohesive teams rather than adrift ships, ones that have a clear direction and purpose behind their decisions. I've learned from past experiences that transparency and communication are vital for maintaining morale and driving success.\n\nMoreover, I highly value flexibility in the workplace and respect for work-life balance. Being able to efficiently manage my responsibilities while still having time for personal pursuits enhances both my productivity and overall well-being.\n\nBy aligning myself with companies that prioritize these principles, I am confident in my ability to contribute meaningfully to their goals while also nurturing my own professional and personal growth."
+  }
+}
