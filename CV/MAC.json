@@ -276,6 +276,29 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Lead design and implementation of the main app for FounderNest."
+        },
+        "type": "achievement",
+        "publishingDate": "2017-12-01",
+        "relatedCompetences": [
+          {
+            "name": "Hooks",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux-Saga",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
