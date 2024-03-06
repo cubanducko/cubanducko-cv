@@ -288,6 +288,12 @@
           "name": "Good verbal communication",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
+        }
       }
     ]
   },
