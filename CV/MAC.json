@@ -185,7 +185,25 @@
           {
             "name": "Frontend Developer",
             "startDate": "2018-08-01",
-            "finishDate": "2018-12-31"
+            "finishDate": "2018-12-31",
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
