@@ -32,6 +32,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "The Testing Trophy and Testing Classifications",
+        "type": "reading",
+        "URL": "https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications",
+        "summary": "This is my preferred approach to testing",
+        "authors": [
+          {
+            "name": "Kent",
+            "surnames": "C Dodds",
+            "title": "Author"
+          }
+        ]
       }
     ],
     "relevantLinks": [
@@ -526,6 +539,9 @@
     "bookmarks": [
       {
         "name": "Staff Engineer: Leadership beyond the management track"
+      },
+      {
+        "name": "The Testing Trophy and Testing Classifications"
       }
     ]
   }
