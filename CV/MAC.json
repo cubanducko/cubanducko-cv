@@ -218,7 +218,11 @@
       },
       {
         "organization": {
-          "name": "HETIKUS"
+          "name": "HETIKUS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/3bed0e52-379a-4bae-aff1-ceb8da3a251a_hetikus.png",
+            "alt": "Hetikus.png"
+          }
         },
         "roles": [
           {
