@@ -83,7 +83,30 @@
           {
             "name": "Staff Frontend Developer",
             "startDate": "2021-06-01",
-            "finishDate": "2023-02-01"
+            "finishDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "I undertook a multifaceted role that encompassed both product development and cross-functional leadership.\n\nNotable achievements include:\n\n- Conducting a **major refactor** of tooling at *Packlink*, significantly reducing build times from 1 minute to approximately **10 seconds**.\n- Spearheading the **expansion** of a design system from 15 engineers to **300 engineers** across multiple companies.\n- Orchestrating and executing the **migration** of Packlink's main SPA from Angular.js to React through a **gradual \"inside-out\" approach**.\n- Authoring multiple code quality guides for data management, unit testing, and end-to-end testing.\n- Improving core web vitals of the main SPA by reducing bundle size and optimizing resources.\n- Leading multiple \"tiger teams\" for innovation research aimed at improving our chapter's quality standards.\n\nIn this role, my focus was on driving technical innovation, optimizing performance, and enhancing user experience through strategic decision-making and collaborative leadership."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
