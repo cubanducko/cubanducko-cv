@@ -56,6 +56,14 @@
             ],
             "competences": [
               {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
                 "name": "NextJS",
                 "type": "technology"
               },
