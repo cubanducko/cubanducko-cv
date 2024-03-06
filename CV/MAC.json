@@ -22,6 +22,18 @@
     },
     "recommendations": [
       {
+        "title": "Colocation",
+        "type": "reading",
+        "URL": "https://kentcdodds.com/blog/colocation",
+        "authors": [
+          {
+            "name": "Kent",
+            "surnames": "C Dodds",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Staff Engineer: Leadership beyond the management track",
         "type": "reading",
         "URL": "https://github.com/mgp/book-notes/blob/master/staff-engineer.markdown",
@@ -537,6 +549,9 @@
     ],
     "desiredJobDescription": "I am deeply motivated by organizations that exemplify strong and transparent leadership. I believe in working with companies that feel like cohesive teams rather than adrift ships, ones that have a clear direction and purpose behind their decisions. I've learned from past experiences that transparency and communication are vital for maintaining morale and driving success.\n\nMoreover, I highly value flexibility in the workplace and respect for work-life balance. Being able to efficiently manage my responsibilities while still having time for personal pursuits enhances both my productivity and overall well-being.\n\nBy aligning myself with companies that prioritize these principles, I am confident in my ability to contribute meaningfully to their goals while also nurturing my own professional and personal growth.",
     "bookmarks": [
+      {
+        "name": "Colocation"
+      },
       {
         "name": "Staff Engineer: Leadership beyond the management track"
       },
