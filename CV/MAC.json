@@ -224,7 +224,34 @@
           {
             "name": "Associate Frontend Developer",
             "startDate": "2017-03-01",
-            "finishDate": "2018-08-31"
+            "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": "As an Associate Frontend Developer at MrMilu, a digital agency specializing in consulting and digital transformation, I developed projects using React and Vue.js. This role involved working closely with clients to understand their needs and translate them into effective solutions. Through client interactions and project collaborations, I honed both technical skills and client-facing abilities, contributing to successful digital transformation initiatives.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
