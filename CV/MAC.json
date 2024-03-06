@@ -48,7 +48,26 @@
         "roles": [
           {
             "name": "Staff Frontend Engineer",
-            "startDate": "2023-02-01"
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "In my role as a Staff Engineer, I blend product work with cross-functional responsibilities, focusing on technical innovation and optimization to drive performance and enhance user experience.\n\nSome of my notable achievements include:\n\n- Refactored and supported the **data management layer** in the search app at Eventbrite, **migrating** it from **Redux** to **react-query**.\n- **Architected** the **migration** of the existing **MPA system** to a **SSR architecture** with **Next.js**.\n- Enhanced the **design system** by integrating **design tokens** and leveraging existing technologies like **Shacdn UI**.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
