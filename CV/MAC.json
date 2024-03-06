@@ -417,6 +417,20 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Bachelor's Degree in Telecommunications Engineering",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Universidade de Vigo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505",
+            "alt": "24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505"
+          }
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Front end libraries certification, Computer Science",
         "startDate": "2016-02-01",
         "institution": {
@@ -427,20 +441,6 @@
           }
         },
         "finishDate": "2016-09-30"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Grado en ingenería de las telecomunicaciones, Telemática",
-        "startDate": "2011-01-01",
-        "institution": {
-          "name": "Universidade de Vigo",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505",
-            "alt": "24/03/06/7b9c0487-d2e6-4a13-8c27-67d0ca975c26_linkedin-photo-11505.linkedin-photo-11505"
-          }
-        },
-        "finishDate": "2016-01-01"
       }
     ],
     "softSkills": [
