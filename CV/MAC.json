@@ -70,7 +70,7 @@
       },
       {
         "type": "twitter",
-        "URL": "https://twitter.com/home"
+        "URL": "https://twitter.com/duckodev"
       }
     ]
   },
@@ -476,7 +476,7 @@
           "type": "github"
         },
         {
-          "URL": "https://twitter.com/home",
+          "URL": "https://twitter.com/duckodev",
           "type": "twitter"
         }
       ],
