@@ -449,6 +449,12 @@
           "name": "Creative thinking",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
       }
     ]
   },
