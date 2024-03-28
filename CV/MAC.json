@@ -446,6 +446,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Resistance to frustration",
           "type": "practice"
         }
