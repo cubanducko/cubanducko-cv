@@ -446,6 +446,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Continuous learning",
           "type": "practice"
         }
