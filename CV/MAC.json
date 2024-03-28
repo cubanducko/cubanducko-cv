@@ -442,6 +442,14 @@
         },
         "finishDate": "2016-09-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
