@@ -78,6 +78,32 @@
     "jobs": [
       {
         "organization": {
+          "name": "Mews",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/06/70f17921-c8dc-432b-b8bd-06e1d8e3ec76_images.png",
+            "alt": "images.png"
+          },
+          "URL": "https://www.mews.com/en"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Engineer",
+            "startDate": "2024-06-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Eventbrite",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/463f66a2-cddb-4700-852f-96270b90df05_linkedin-photo-11505.linkedin-photo-11505",
@@ -479,9 +505,6 @@
           "URL": "https://twitter.com/duckodev",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "r.dominguez.alvarez.dev@gmail.com"
       ]
     },
     "preferences": {
