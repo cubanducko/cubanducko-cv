@@ -78,6 +78,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "Waizard",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/26/35feae06-0c0f-4216-b5f3-142322a30b61_664cd4e490b4e15ca4a9.svg",
+            "alt": "664cd4e490b4e15ca4a94b1c_waizard.svg"
+          },
+          "URL": "https://www.waizard.io/"
+        },
+        "roles": [
+          {
+            "name": " Head of Web Development",
+            "startDate": "2025-04-01",
+            "challenges": [
+              {
+                "description": "I specialize in scaling frontend teams efficiently by focusing on autonomy, technical leadership, and value-driven development. My approach ensures teams operate without unnecessary dependencies, leveraging modern tools and best practices to maximize impact without excessive complexity.\n\nI advocate for a strategic tech stack, favoring React, TailwindCSS, and community-backed solutions to streamline development.\n\nMy methodology prioritizes integration testing, pragmatic documentation, and a lean, adaptable engineering culture. By fostering collaboration between Product, Engineering, and Business, I help organizations align technical execution with business objectives, ensuring sustainable growth and innovation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bun",
+                "type": "technology"
+              },
+              {
+                "name": "Prisma",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Mews",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/06/70f17921-c8dc-432b-b8bd-06e1d8e3ec76_images.png",
