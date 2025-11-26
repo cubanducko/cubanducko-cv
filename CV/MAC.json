@@ -89,6 +89,7 @@
           {
             "name": "Senior Frontend Engineer",
             "startDate": "2024-06-01",
+            "finishDate": "2025-04-01",
             "challenges": [
               {
                 "description": "In my role as a Senior Engineer, I blend product work with cross-functional responsibilities, focusing on technical innovation and optimization to drive performance and enhance user experience.\n\nSome of my notable achievements include:\n\n- Defined the integration testing strategy for the main SPA app\n- Migrate the main app to React 18\n- Enhanced the **design system** by integrating **design tokens** and leveraging existing technologies like **Shacdn UI**.\n"
