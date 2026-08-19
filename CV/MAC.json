@@ -338,27 +338,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "GRADIANT",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/eba99956-47ad-48d8-b636-535653dbcc59_linkedin-photo-11505.linkedin-photo-11505",
-            "alt": "24/03/06/eba99956-47ad-48d8-b636-535653dbcc59_linkedin-photo-11505.linkedin-photo-11505"
-          }
-        },
-        "roles": [
-          {
-            "name": "IoT Researcher",
-            "startDate": "2015-09-01",
-            "finishDate": "2016-03-31",
-            "challenges": [
-              {
-                "description": "As an IoT researcher, I explored Industry 4.0 and IoT communication protocols in embedded systems, focusing on enhancing efficiency and connectivity in industrial processes. I conducted extensive research, collaborated on prototyping innovative solutions, and evaluated IoT protocols' suitability for various applications.\n"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
