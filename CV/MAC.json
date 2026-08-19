@@ -298,45 +298,6 @@
       },
       {
         "organization": {
-          "name": "HETIKUS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/ba775329-8ddd-4e08-ae8a-4df809781eb9_hetikus-(1).png",
-            "alt": "Hetikus (1).png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2018-08-01",
-            "finishDate": "2018-12-31",
-            "challenges": [
-              {
-                "description": "As a Frontend Engineer in my first startup experience, I embarked on a journey of continuous learning and growth, immersing myself in Vue.js, testing methodologies, clean code practices, and product development principles. This role primarily involved product-focused tasks, where I played a significant role in shaping the user experience and functionality of the application.\n\nThis immersive experience in a startup environment equipped me with the adaptability, resilience, and entrepreneurial mindset essential for navigating the challenges and opportunities in the dynamic world of technology startups.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Mr. Milú",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/06/b576c800-c289-430b-aa90-591d0d898dca_linkedin-photo-11505.linkedin-photo-11505",
