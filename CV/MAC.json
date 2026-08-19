@@ -87,11 +87,11 @@
         },
         "roles": [
           {
-            "name": " Head of Web Development",
+            "name": "Senior Product Builder",
             "startDate": "2025-04-01",
             "challenges": [
               {
-                "description": "I specialize in scaling frontend teams efficiently by focusing on autonomy, technical leadership, and value-driven development. My approach ensures teams operate without unnecessary dependencies, leveraging modern tools and best practices to maximize impact without excessive complexity.\n\nI advocate for a strategic tech stack, favoring React, TailwindCSS, and community-backed solutions to streamline development.\n\nMy methodology prioritizes integration testing, pragmatic documentation, and a lean, adaptable engineering culture. By fostering collaboration between Product, Engineering, and Business, I help organizations align technical execution with business objectives, ensuring sustainable growth and innovation."
+                "description": "Product builder who leads frontend-heavy teams and owns the full technical picture, from backend architecture to shipped UI, with a focus on autonomy, technical\nleadership, and value-driven development.\nBuilds complex, data-intensive platforms: multi-tenant architectures, backend orchestration systems that coordinate distributed services via message queues, and\nanalytics dashboards for domain-expert users\nShipped multiple React Native (Expo) mobile apps with computer vision, and owned both the client experience and the backend behind them\nStandardized a community-backed frontend stack (React, Tailwind CSS, TanStack Query, React Compiler), which cut development cycles by 30%\nRemoved unnecessary team dependencies, which increased delivery velocity by ~40%\nDrives AI-assisted development across the stack: Claude Code agents connected to internal analytics and alerting, custom agent skills that parallelize backend and\nfrontend work, and Model Context Protocol (MCP) tooling that lets agents visually verify their own output\nShips most code today as AI-generated under strict guardrails (skills, linters, deliberate architecture) with no quality regressions"
               }
             ],
             "competences": [
