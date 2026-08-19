@@ -9,7 +9,7 @@
       "name": "Ricardo",
       "surnames": "Domínguez Álvarez",
       "title": "Staff Frontend Engineer",
-      "description": "I'm **Ricardo Domínguez**, **a frontend developer since 2015**, currently based in **Madrid**.\n\nWithin the different branches of programming, I’ve found in frontend development the perfect balance between my interest in refined visuals and my passion for solid software architecture. Over the years, I’ve grown into a T-shaped developer: my deep expertise lies in building rich, maintainable, and scalable user interfaces, while I also bring a broad understanding across the stack.\n\nAlthough my core strength is frontend, lately I’ve been diving into infrastructure and backend development, learning how systems behave behind the curtain and how to deliver more cohesive, end-to-end solutions.\n\nI consider myself a decisive and pragmatic person, always looking for new challenges and opportunities to grow both personally and professionally.\n\nI’m a big **TypeScript** and **React** fan 🤓, but I’ve also worked with **Vue.js**, and I’ve led migrations from **Angular 1.x**.\nI enjoy writing clean, predictable code, improving developer experience, and contributing to architectures that scale gracefully.\n\nSome of my notable achievements include:\n\n- **Lead design and implementation** of the main app for *FounderNest*.\n- Spearheaded the **expansion** of a design system from 15 engineers to **300 engineers** across multiple companies.\n- **Proficient** in leading teams amidst **changing specifications** and **acceptance criteria**.\n- Pioneered the use of **React hooks**, driving the **migration** of various apps to this modern approach.\n- Engineered a **dynamic B2B paper store** featuring adaptive styles and customized copies for each client.\n- Conducted a **major refactor** of tooling at *Packlink*, resulting in **dramatically reduced build times** from 1 minute to approximately **10 seconds**.\n- **In-depth knowledge** of low-level JavaScript.\n- Orchestrated and executed the **migration** of the main Packlink **SPA** from Angular.js to React through a **gradual \"inside-out\" approach**.\n- Established frontend standards and improved developer experience (DX) across multiple teams at **Waizard**\n- Created an AI playbook for new employees at **Waizard**, outlining best practices for improved AI usage\n",
+      "description": "Software engineer since 2015, based in Madrid. Full-stack engineer with the deepest expertise in rich, maintainable user interfaces built with TypeScript and React, and a\ngrowing footprint on the server side.\n\nDesigned and built backend APIs with Node.js and Express, migrated multi-page systems to server-side rendering (SSR) architectures with Next.js, and architected\norchestration systems that coordinate multiple scrapers through message queues. Owns features end to end, from the data model and async processing to the\ninteraction they power.\n\nEarly adopter of AI-assisted development: uses AI tooling in daily workflows, helps teams adopt it effectively, and authored the AI playbooks for new engineers.\n\nAlso shipped with Vue.js, Bun, Prisma, and Node.js, and led migrations from Angular 1.x. Writes clean, predictable code, improves developer experience, and contributes\nto architectures that scale.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/26/ca3819ff-83ed-4296-a605-427eed761bfc_dscf4188.jpg",
         "alt": "DSCF4188.jpg"
@@ -587,10 +587,6 @@
       "discardedCompetences": [
         {
           "name": "AngularJS",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
           "type": "technology"
         }
       ],
